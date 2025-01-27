@@ -20,21 +20,6 @@ To run this project, ensure the following are installed:
 
 ---
 
-## **Installation**
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/dopcs.git
-   cd dopcs
-   ```
-
-2. Install dependencies:
-   - If your project uses additional Go modules, run:
-     ```bash
-     go mod tidy
-     ```
-
----
 
 ## **Running the Service**
 
